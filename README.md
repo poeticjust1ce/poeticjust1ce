@@ -17,5 +17,5 @@ bs information technology, 2025. currently freelancing.
 <br />
 
 <div align="center">
-  <sub><code>— just orca, making stuff on the internet.</code></sub>
+  <img src="./assets/footer.gif" width="100%" alt="just orca, making stuff on the internet." />
 </div>
